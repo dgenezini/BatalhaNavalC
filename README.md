@@ -1,6 +1,6 @@
 # ⚓ Batalha Naval
 
-Batalha Naval feito em 2005 como trabalho no primeiro ano de faculdade.
+Batalha Naval em C, feito em 2005 como trabalho no primeiro ano de faculdade.
 
 # Executar
 
